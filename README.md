@@ -8,5 +8,5 @@ que são: um lobo, uma cabra e um maço de alfafa. Em casa viagem só poderá ir
 A seguinte regra deverá ser respeitada: o lobo não pode ficar sozinho com a cabra e nem a cabra sozinha com o maço de alfafa.
 Escreva um algoritmo para fazer a travessia dos pertences que estão em uma margem do rio para a outra.
 
-3. JS: Exibir média de 3 números com entradas pelo formulário HTML
+2. JS: Exibir média de 3 números com entradas pelo formulário HTML
 Enviar link(s) do git ou do fiddle.

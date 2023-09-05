@@ -1,0 +1,80 @@
+body {
+  font-family: sans-serif;
+  background-color: #3F6745;
+  padding-top:100px;
+}
+
+h1, button, .numeros, #resultado {
+   margin: 30px 0;
+}
+
+.card-media {
+  max-width: 600px;
+  margin: 100px auto; 
+  background-color: #fff;
+  box-shadow: 2px 12px 30px #0002007a;
+  border-radius: 15px;
+  min-height: 300px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #050402;
+}
+
+h1 {
+  color: #3F6745;
+  font-size: 25px;
+  text-align: center;
+}
+
+ button {
+  background: #EE691F;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 600;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 auto;
+  border-radius: 8px 0 8px 0;
+  border-bottom: 3px solid #3f6745;
+}
+
+input[type="number"] {
+  outline-color: #EE691F;
+  color: #9b4618;
+  height: 31px;
+  margin: 0 5px;
+}
+
+#resultado {
+  text-align: center;
+  color: #ee691f;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+span {
+  margin-right: 6px;
+  font-weight: 600;
+  color:#3f6745;
+}
+
+
+@media (max-width:767px) {
+
+h1 { 
+  font-size: 20px;
+}
+
+.numeros {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0;
+}
+
+input[type="number"] {
+   margin:10px;
+}
+
+}
