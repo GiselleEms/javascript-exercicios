@@ -31,7 +31,7 @@ if (carro == "preto") {
 
 // soma de caracteres
 
-let somaCores = branco + preto + cinza;
+let somaCores = branco + preto + cinza + carro;
 
 let caracteres = somaCores.length;
 

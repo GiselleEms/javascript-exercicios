@@ -66,12 +66,12 @@ numeroPrestacoes = (30.000 - 3.000) / 750 = 36
 **São necessárias 36 prestações**
 
 f) Somando as variáveis de cores é formada uma string de quantos caracteres?
-16 caracteres
+21 caracteres
 
-cores = preto + branco + cinza 
-resultado = 'cinzapretobranco'
+cores = branco + preto + cinza + carro
+resultado = 'pretocinzabrancopreto'
 
 var caracteres = cores.length;
 
-caracteres = 16
+caracteres = 21
 
